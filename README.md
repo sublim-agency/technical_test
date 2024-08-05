@@ -1,6 +1,6 @@
 # technical_test
 
-A new Flutter project.
+A new Flutter project. [Figma template](https://www.figma.com/design/JwpWORsOj1ZsvebvYyx8Yi/Test-Technique?node-id=0-1&t=eANWKT8vAmHXYCCr-1)
 
 ## Getting Started
 
